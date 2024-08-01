@@ -7,21 +7,16 @@
 - @PostMapping
 - @PutMapping
 - @DeleteMapping
-- @ResponseBody
 - @ResponseEntity
-- @RequestParam
-- @RequestBody
-- @PathVariable
-- @Autowired
-- @Component
+- [@RequestParam](https://www.baeldung.com/spring-request-param)
+- [@RequestBody and @ResponseBody](https://www.baeldung.com/spring-request-response-body)
+- [@ResponseStatus](https://www.baeldung.com/spring-response-status)
+- [@PathVariable](https://www.baeldung.com/spring-pathvariable)
+- [@Autowired](https://www.baeldung.com/spring-autowire)
+- [@Component](https://www.baeldung.com/spring-component-annotation)
 - @Service
 - @Repository
-- @ComponentScan
+- [@ComponentScan](https://www.baeldung.com/spring-component-scanning)
 - @Configuration
-- @Value
-
----
-
-### SpringBootApplication
-
-### Controller
+- [@Value](https://www.baeldung.com/spring-value-annotation)
+- [@Bean](https://www.baeldung.com/spring-bean-annotations)
