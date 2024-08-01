@@ -8,7 +8,7 @@ the below are taken from multiple online websites, the credit goes to them. (htt
     - spring INVERSION OF CONTRO (IOC)
     - spring ASPECT ORIENTED PROGRAMMING (AOP)
     - spring MODEL VIEW CONTROLLER (MVC)
-    - spring annotations
+    - [spring annotations](spring-annotations.md)
     - spring bean scope
 
 - spring boot
